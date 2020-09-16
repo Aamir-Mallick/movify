@@ -1,0 +1,13 @@
+@media screen and (min-width: 580px) {
+  .mainContainer__container {
+    font-size: 1.6em;
+    text-align: start;
+  }
+}
+
+@media screen and (max-width: 579px) {
+  .mainContainer__container {
+    font-size: 1.2em;
+    text-align: start;
+  }
+}
